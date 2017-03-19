@@ -4,7 +4,7 @@
   "description": "Group video chat app to demonstrate the basic functionality of OpenTok",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node index.js"
   },
   "author": "Arsal",
   "license": "ISC",
